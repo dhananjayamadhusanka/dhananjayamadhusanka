@@ -1,16 +1,44 @@
-### Hi there 👋
+<p>
+    <a href="https://t.me/DhananjayaMadhusanka" target="blank"><img src="https://img.shields.io/badge/@ᴅʜᴀɴᴀɴᴊᴀʏᴀ_ᴍᴀᴅʜᴜsᴀɴᴋᴀ-30302f?style=flat&logo=telegram" /></a>
 
-<!--
-**dhananjayamadhusanka/dhananjayamadhusanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+ 
+ 
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+  
+ ​<b>Skills :</b> <code>Python</code> | <code>HTML</code> | <code>CSS</code> 
+  
+  
+
+  
+ ​</div>
+ 
+ 
+  
+ 
+
+
+
+
+
+___
+ 
+
+
+ 
+ ​-​ ![​Profile views​](https://gpvc.arturio.dev/dhananjayamadhusanka) 
+ ​-​ [![​GitHub followers​](https://img.shields.io/github/followers/dhananjayamadhusankasvg?style=social&label=Follow&maxAge=2592000)](https://github.com/dhananjayamadhusanka?tab=followers) 
+
+
+
+
+
+
+
+
+ 
+ ## ᴠɪssɪᴛᴏʀs ᴄᴏᴜɴᴛ
+ ​![​VisitorCount​](https://profile-counter.glitch.me/{dhananjayamadhusanka}/count.svg)
